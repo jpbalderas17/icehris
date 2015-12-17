@@ -1,0 +1,11 @@
+{
+"label":"Leave Settings",
+"menu":"Admin",
+"order":"8",
+"icon":"fa-calendar-o",
+"user_levels":["Admin"],
+
+"permissions":
+	{
+	}
+}
